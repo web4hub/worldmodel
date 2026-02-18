@@ -160,11 +160,14 @@ dataset = load_dataset("Qwen/WebWorldData")
 ## Citation
 
 ```bibtex
-@article{WebWorld,
-  title   = {WebWorld: A Large-Scale World Model for Web Agent Training},
-  author  = {Xiao, Zikai and Tu, Jianhong and Zou, Chuhang and Zuo, Yuxin and Li, Zhi and Wang, Peng and Yu, Bowen and Huang, Fei and Lin, Junyang and Liu, Zuozhu},
-  journal = {arXiv preprint arXiv:YYMM.NNNNN},
-  year    = {2025}
+@misc{xiao2026webworldlargescaleworldmodel,
+      title={WebWorld: A Large-Scale World Model for Web Agent Training}, 
+      author={Zikai Xiao and Jianhong Tu and Chuhang Zou and Yuxin Zuo and Zhi Li and Peng Wang and Bowen Yu and Fei Huang and Junyang Lin and Zuozhu Liu},
+      year={2026},
+      eprint={2602.14721},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.14721}, 
 }
 ```
 
