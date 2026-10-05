@@ -1,0 +1,1 @@
+-DCMAKE_C_COMPILER=gcc-15 -DCMAKE_CXX_COMPILER=g++-15 -DCMAKE_HIP_FLAGS=--gcc-install-dir=$(dirname $(gcc-15 -print-libgcc-file-name))
